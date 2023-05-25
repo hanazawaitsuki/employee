@@ -1,4 +1,4 @@
-<?php $this->setLayoutVar('title', '編集画面') ?>
+<?php  $this->setLayoutVar('title', '編集画面') ?>
 
 <h2>編集</h2>
 
